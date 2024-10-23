@@ -24,11 +24,12 @@ export default function Home() {
         <div className="relative px-6 sm:max-md:px-1 pt-14 after:absolute after:w-[80vw] after:h-[100vh] after:animate-afterHome after:top-[100px] after:left-[150px] before:absolute before:w-[70vw] before:h-[100vh] before:animate-afterHome before:top-[100px] before:left-[215px] lg:px-8">
           <div className="relative max-w-2xl py-32 mx-auto animate-textHome sm:py-48 lg:py-56">
             <div className="text-center">
-              <h1 className="text-4xl font-bold tracking-tight text-mainText sm:text-6xl">
-                Discover a world of amazing videos!
+              <h1 className="text-4xl font-bold tracking-tight sm:max-md:text-2xl text-mainText sm:text-6xl">
+                The world of gaming awaits you!
               </h1>
-              <p className="mt-6 text-lg leading-8 text-mainText sm:text-base md:text-lg lg:text-xl">
-                Noting that a variety of videos are available to suit all tastes.
+              <p className="mt-6 text-lg leading-8 sm:max-md:text-xl text-mainText sm:text-base md:text-lg lg:text-xl">
+                Where passion meets gaming – join the HaedaraGaming community
+                now!
               </p>
               <div className="flex items-center justify-center mt-10 gap-x-6">
                 <button className="rounded-md bg-button px-3.5 py-2.5 text-sm font-semibold text-button shadow-sm hover:bg-hoverButton">
@@ -64,7 +65,10 @@ export default function Home() {
 
       <div className="w-full py-20 flex flex-col items-center gap-10 min-h-[50vh]">
         <h1 className="text-xl font-bold text-center w-[80%] sm:w-[90%] md:w-[70%] lg:w-[50%] text-mainText">
-          <span className="text-3xl font-bold text-title">Welcome to HaedaraTube</span>, your go-to platform to discover and watch a wide range of diverse videos.
+          <span className="text-3xl font-bold text-title">
+            Welcome to HaedaraGaming
+          </span>
+          Discover in-depth details about the latest games – story, graphics, experience, and more.
         </h1>
         <video
           src="https://video.akamai.steamstatic.com/store_trailers/256972298/movie480_vp9.webm?t=1696005467"

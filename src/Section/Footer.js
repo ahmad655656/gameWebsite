@@ -3,10 +3,10 @@ import React from 'react'
 export default function Footer() {
   return (
     <div className="flex flex-col items-center w-full">
-      <footer className="border-b-[2px] border-solid flex w-[90vw] mx-auto justify-between flex-wrap gap-10 p-10 text-base-content">
+      <footer className="border-b-[2px] border-solid flex w-[90vw] mx-auto justify-between flex-wrap gap-10 pb-[10px] text-base-content">
         {/* Logo and Image Section */}
         <div className="flex flex-col gap-[20px] items-start w-full sm:w-auto">
-          <h1 className="text-4xl font-extrabold text-logo">HaedaraTube</h1>
+          <h1 className="text-4xl font-extrabold text-logo">HaedaraGaming</h1>
           <img
             src={
               'https://i.pinimg.com/564x/d2/65/35/d265358d77f2482412c3e64ea2f32766.jpg'
