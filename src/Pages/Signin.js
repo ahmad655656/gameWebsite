@@ -1,8 +1,8 @@
-
+import video from "../Assests/8128343-uhd_2160_3840_25fps.mp4"
 export default function Signin() {
     return (
       <div className="flex sm:max-lg:flex-wrap w-full pt-[150px] max-w-sm mx-auto overflow-hidden rounded-lg shadow-lg lg:max-w-4xl">
-        <video className="w-[500px] h-[500px] " autoPlay src="https://footballteamgame.com/_nuxt/section-items-v2_v77.mp4"></video>
+        <video className="w-[500px] h-[465px] " autoPlay src={video}></video>
       <div className="w-full px-6 py-8 md:px-8 lg:w-1/2">
           <div className="flex justify-center mx-auto">
               <img className="w-auto h-7 sm:h-8" src="https://merakiui.com/images/logo.svg" alt="" />
