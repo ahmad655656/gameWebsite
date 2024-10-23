@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/gameWebsite/static/css/main.e44310d2.css",
-    "main.js": "/gameWebsite/static/js/main.594294a9.js",
+    "main.css": "/gameWebsite/static/css/main.ddff72b6.css",
+    "main.js": "/gameWebsite/static/js/main.532a98f3.js",
     "static/js/453.9feb08e2.chunk.js": "/gameWebsite/static/js/453.9feb08e2.chunk.js",
+    "static/media/8128343-uhd_2160_3840_25fps.mp4": "/gameWebsite/static/media/8128343-uhd_2160_3840_25fps.b5814f1814735e20e908.mp4",
     "index.html": "/gameWebsite/index.html",
-    "main.e44310d2.css.map": "/gameWebsite/static/css/main.e44310d2.css.map",
-    "main.594294a9.js.map": "/gameWebsite/static/js/main.594294a9.js.map",
+    "main.ddff72b6.css.map": "/gameWebsite/static/css/main.ddff72b6.css.map",
+    "main.532a98f3.js.map": "/gameWebsite/static/js/main.532a98f3.js.map",
     "453.9feb08e2.chunk.js.map": "/gameWebsite/static/js/453.9feb08e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e44310d2.css",
-    "static/js/main.594294a9.js"
+    "static/css/main.ddff72b6.css",
+    "static/js/main.532a98f3.js"
   ]
 }
