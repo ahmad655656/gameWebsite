@@ -1,0 +1,10 @@
+.flex{
+    flex-direction: row;
+    display: flex;
+    border-radius: var(--border-radius);
+    font-size: 20px;
+    gap: 30px;
+    width: fit-content;
+    align-items: center;
+    font-weight: 400;
+}
