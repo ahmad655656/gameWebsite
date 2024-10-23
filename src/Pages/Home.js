@@ -47,7 +47,7 @@ export default function Home() {
         <h1 className="text-4xl font-bold text-mainText sm:text-3xl md:text-4xl">
           Various Games
         </h1>
-        <div className="w-full px-4 md:px-[50px] lg:px-[100px] gap-4 min-h-[50vh] sm:max-md:flex sm:max-md:flex-col sm:max-md:items-center sm:max-md:gap-[20px] sm:max-md:w-[100vw] sm:max-md:px-0 sm:max-md:pl-[20px] flex flex-row flex-wrap justify-center">
+        <div className="w-full px-4 md:px-[50px] lg:px-[100px] gap-4 min-h-[50vh] sm:max-md:flex sm:max-md:flex-col sm:max-md:items-center sm:max-md:gap-[20px] sm:max-md:w-[100vw] sm:max-md:px-0  flex flex-row flex-wrap justify-center">
           {games.slice(0, 8).map((v) => (
             <Link to={`/playerVideo/${v.id}`} key={v.id}>
               <Card

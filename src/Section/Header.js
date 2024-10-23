@@ -75,8 +75,8 @@ export default function Header() {
       >
         <div className="flex lg:flex-1">
           <Link to="/" className=" flex-row items-center flex gap-[5px] -m-1.5 p-1.5">
-            <img src={'https://i.pinimg.com/564x/d2/65/35/d265358d77f2482412c3e64ea2f32766.jpg'} className='rounded-[50%] w-[50px] h-[50px] '></img>
-            <span className="text-3xl font-black text-logo">HAEDARA<span className="text-mainText">TUBE</span></span>
+            <img src={'https://i.pinimg.com/564x/d2/65/35/d265358d77f2482412c3e64ea2f32766.jpg'} className='rounded-[50%] sm:max-md:w-[30px] sm:max-md:h-[30px] w-[50px] h-[50px] '></img>
+            <span className="text-3xl font-black sm:max-md:text-xl text-logo">HAEDARA<span className="text-mainText">Gaming</span></span>
           </Link>
         </div>
         <div className="flex lg:hidden">
